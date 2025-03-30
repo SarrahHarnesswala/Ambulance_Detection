@@ -1,9 +1,9 @@
 pandas
-numpy 
+numpy
 torch
-os
-cv2
-PIL
+opencv-python
+Pillow
 ultralytics
 matplotlib
 torchvision
+streamlit

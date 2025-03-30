@@ -5,7 +5,6 @@ from torchvision import transforms
 from ultralytics import YOLO
 from PIL import Image
 import numpy as np
-import os
 import matplotlib.pyplot as plt
 
 # ========================
