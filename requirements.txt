@@ -1,0 +1,9 @@
+pandas
+numpy 
+torch
+os
+cv2
+PIL
+ultralytics
+matplotlib
+torchvision
